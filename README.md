@@ -38,6 +38,7 @@ Before running the script you must first use chmod to make the script executable
 
 ```bash
 sudo chmod 755 ./OpenCV-4-5-4.sh
+./OpenCV-4-5-4.sh
 ```
 
 > Remember to replace `OpenCV-4-5-4.sh` with the filename of the script you downloaded
