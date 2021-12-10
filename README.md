@@ -22,9 +22,9 @@ wget https://github.com/Radiator-Labs/meter_reader_pi_dist/raw/main/meter_pi_dis
 
 Scripts to install OpenCV on a Raspberry Pi 4 with 32bit OS
 
-| OpenCV Version | Download Link                                                                                  |
-| -------------- | ---------------------------------------------------------------------------------------------- |
-| 4.5.4          | https://github.com/Radiator-Labs/meter_reader_pi_dist/blob/main/opencv_scripts/OpenCV-4-5-4.sh |
+| OpenCV Version | Download Link                                                                                            |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| 4.5.4          | https://raw.githubusercontent.com/Radiator-Labs/meter_reader_pi_dist/main/opencv_scripts/OpenCV-4-5-4.sh |
 
 ### Download Instructions
 
